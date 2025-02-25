@@ -1,4 +1,6 @@
 # Customized Grading System
+(Made last 2022, a beginner project)
+
 This project is a customized grading system for our WEBPROG subject wherein it caters 2 sections - IT211 and IT212. The scoresheet here consists of customized criteria.
 This is made from ArgonCSS, php, html, and uses mySQL as database.
 
